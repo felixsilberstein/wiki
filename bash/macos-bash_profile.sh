@@ -1,3 +1,4 @@
+# Either replace the whole .bash_porfile file located at ~/ or take any components
 set -o ignoreeof
 export HISTCONTROL=ignoreboth:erasedups:ignorespace
 export HISTFILESIZE=1000000
